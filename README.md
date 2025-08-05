@@ -13,7 +13,7 @@
   <img align="center" alt="Aguimar-CSS" height="33" width="33" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
   <img align="center" alt="Aguimar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aguimar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aguimar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- <img align="center" alt="Aguimar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
 </div>
 
 ##
